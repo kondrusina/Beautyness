@@ -1,0 +1,232 @@
+
+header {
+    width: 100%;
+    height: 110px;
+    padding: 15px;
+    background: linear-gradient(to bottom, #fefcea, #b6e1f1);
+    
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    padding-top: 10px;
+    float: left;
+}
+
+.nazvanie {
+    float: left;
+    font-size: 35px;
+    font-weight: bolder;
+    padding-left: 15px;
+
+}
+
+nav {
+    float: right;
+    text-decoration: none;
+    font-size: 25PX;
+    padding-right: 30px;
+    padding-top: 40px;
+
+}
+
+a:hover {
+    color: brown;
+}
+
+.menu {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    padding-right: 15px;
+
+}
+
+
+.informacia {
+    width: 100%;
+    height: 800px;
+    background-color: rgb(203, 229, 240);
+
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+.text {
+    width: 30%;
+    font-size: 25px;
+    padding: 25px;
+    float: left;
+}
+
+.btn {
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 20px;
+    position: relative;
+    top: 400px;
+    right: 500px;
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+
+span {
+    color: cornflowerblue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.informacia img {
+    width: 500px;
+    height: 500px;
+
+}
+
+.foto {
+    position: relative;
+    left: 150px;
+    z-index: 1;
+    top: 80px;
+}
+
+.foto_2 {
+    position: relative;
+    left: 850px;
+    bottom: 350px;
+}
+
+.yslygi img {
+    width: 250px;
+    height: 200px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.yslygi {
+    width: 80%;
+    height: 600px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 160px;
+
+}
+
+.massach,
+.manikyr,
+.makiyach {
+    width: 250px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.praice {
+    width: 100%;
+    height: 800px;
+    margin-top: 50px;
+    background-color: rgb(203, 229, 240);
+}
+
+.praice h2 {
+    padding-top: 35px;
+}
+
+
+th {
+    font-size: 20px;
+}
+
+
+.example {
+    border-collapse: collapse;
+position: relative;
+left: 150px;
+float: left;
+top: 50px;
+
+}
+
+.foto_3 {
+    position: relative;
+    left: 350px;
+}
+.example td {
+    border: 1px solid;
+    padding: 10px;
+}
+
+.example th {
+    border: 1px solid;
+}
+
+.zapis {
+    width: 100%;
+    height: 300px;
+
+}
+input {
+    border-radius: 8px ;
+    padding: 8px;
+    width: 300px;
+    
+}
+
+input:focus {
+    border: 3px solid rgb(0, 0, 0);
+    }
+
+form div {
+    margin: 8px 0;
+    padding-left: 40%;
+    
+}
+
+label {
+    font-weight: bolder;
+}
+
+button {
+    padding: 8px;
+    position: relative;
+    left: 631px;
+    width: 320px;
+    border-radius: 8px ;
+    background: linear-gradient(to bottom, #fefcea, #b6e1f1);
+    font-weight: bolder;
+}
+
+
+footer {
+    width: 100%;
+    height: 110px;
+    padding: 15px;
+    border: 1px solid black;
+    background: linear-gradient(to bottom, #fefcea, #b6e1f1);
+}
+
+address {
+    float: right;
+    padding-top: 30px;
+    font-weight: bolder;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+footer img {
+    width: 45px;
+    height: 45px;
+    margin: 8px;
+    padding-top: 20px;
+}
